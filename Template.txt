@@ -1,0 +1,22 @@
+#INFOFILE1.1 - Do not remove this line!
+FileIdent = TrafficSign 1.0
+
+# Sign name as it appears in the GUI
+Name.en = _NAME_
+
+# Texture file
+TexFile = _FILENAME_
+
+# Traffic Sign Class
+Class = _CLASS_
+
+# Traffic Sign Shape
+Shape = _SHAPE_
+
+# Traffic Sign Size (Width x Height)
+Sizes = M XS S L XL
+Size.XS = _XS_W_ _XS_H_
+Size.S = _S_W_ _S_H_
+Size.M = _M_W_ _M_H_
+Size.L = _L_W_ _L_H_
+Size.XL = _XL_W_ _XL_H_
